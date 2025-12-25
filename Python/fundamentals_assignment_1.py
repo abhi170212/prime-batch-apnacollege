@@ -26,3 +26,53 @@ print(f"their avergae is {average}")
 
 ##########################################################
 
+enterNumber = input("Enter a number: ");
+print(int(enterNumber),type(int(enterNumber)));
+print(float(enterNumber),type(float(enterNumber)));
+print(str(enterNumber),type(str(enterNumber)));
+
+
+############################################################
+
+x = 10+3*2**2 
+print(x);
+
+############################################################
+
+a = int(input("Enter the first number: "));
+b = int(input("Enter the second value: "));
+
+temp = a 
+a = b 
+b = temp 
+
+print(a,b);
+
+#############################################################
+
+tempCel = input("Enter the temperature in celsius: ");
+tempCel = float(tempCel);
+fahrenheitvalue = ((tempCel*9)/5)+32;
+print(fahrenheitvalue);
+
+##############################################################
+
+rad = int(input("Enter the radius: "));
+print(3.14 * rad*rad);
+
+##############################################################
+
+p = float(input("Enter the principal amount: "));
+r = float(input("Enter the rate: "));
+t = float(input("Enter the time: "));
+
+i = (p*r*t) / 100 ;
+print(i);
+
+#############################################################
+
+decimal = float(input("Enter the decimal: "));
+integerPart = int(decimal);
+decimlNumber = decimal - integerPart ; 
+print(f"The integer part is {integerPart} and decimal part is {decimal}");
+
