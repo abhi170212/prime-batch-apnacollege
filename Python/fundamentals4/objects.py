@@ -2,6 +2,8 @@ class student:
      subject="Python"
      college="ABC"
      year="4th year"
+     def __init__(self):
+          print("this is the constructor")
 
 stu1= student()
 stu2= student()
