@@ -1,0 +1,10 @@
+{
+    "age": 22,
+    "gpa": 3.8,
+    "isTeacher": false,
+    "name": "Abhishek Singh",
+    "skills": [
+        "Python",
+        "Machine Learning"
+    ]
+}

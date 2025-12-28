@@ -1,0 +1,43 @@
+{
+  "institute": "AI ML Academy",
+  "location": "India",
+  "totalStudents": 3,
+  "students": [
+    {
+      "id": 1,
+      "name": "Abhishek Singh",
+      "age": 22,
+      "isTeacher": false,
+      "skills": ["Python", "Data Science", "Machine Learning"],
+      "gpa": 3.8,
+      "contact": {
+        "email": "abhishek@example.com",
+        "phone": "9876543210"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Rahul Kumar",
+      "age": 21,
+      "isTeacher": false,
+      "skills": ["Java", "Web Development"],
+      "gpa": 3.4,
+      "contact": {
+        "email": "rahul@example.com",
+        "phone": "9123456780"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Neha Sharma",
+      "age": 25,
+      "isTeacher": true,
+      "skills": ["Python", "AI", "Teaching"],
+      "gpa": null,
+      "contact": {
+        "email": "neha@example.com",
+        "phone": "9988776655"
+      }
+    }
+  ]
+}
