@@ -1,0 +1,250 @@
+country Andorra   Area 468.0  Population84000
+country United Arab Emirates   Area 82880.0  Population4975593
+country Afghanistan   Area 647500.0  Population29121286
+country Antigua and Barbuda   Area 443.0  Population86754
+country Anguilla   Area 102.0  Population13254
+country Albania   Area 28748.0  Population2986952
+country Armenia   Area 29800.0  Population2968000
+country Angola   Area 1246700.0  Population13068161
+country Antarctica   Area 1.4E7  Population0
+country Argentina   Area 2766890.0  Population41343201
+country American Samoa   Area 199.0  Population57881
+country Austria   Area 83858.0  Population8205000
+country Australia   Area 7686850.0  Population21515754
+country Aruba   Area 193.0  Population71566
+country Ã…land   Area 1580.0  Population26711
+country Azerbaijan   Area 86600.0  Population8303512
+country Bosnia and Herzegovina   Area 51129.0  Population4590000
+country Barbados   Area 431.0  Population285653
+country Bangladesh   Area 144000.0  Population156118464
+country Belgium   Area 30510.0  Population10403000
+country Burkina Faso   Area 274200.0  Population16241811
+country Bulgaria   Area 110910.0  Population7148785
+country Bahrain   Area 665.0  Population738004
+country Burundi   Area 27830.0  Population9863117
+country Benin   Area 112620.0  Population9056010
+country Saint BarthÃ©lemy   Area 21.0  Population8450
+country Bermuda   Area 53.0  Population65365
+country Brunei   Area 5770.0  Population395027
+country Bolivia   Area 1098580.0  Population9947418
+country Bonaire   Area 328.0  Population18012
+country Brazil   Area 8511965.0  Population201103330
+country Bahamas   Area 13940.0  Population301790
+country Bhutan   Area 47000.0  Population699847
+country Bouvet Island   Area 49.0  Population0
+country Botswana   Area 600370.0  Population2029307
+country Belarus   Area 207600.0  Population9685000
+country Belize   Area 22966.0  Population314522
+country Canada   Area 9984670.0  Population33679000
+country Cocos [Keeling] Islands   Area 14.0  Population628
+country Democratic Republic of the Congo   Area 2345410.0  Population70916439
+country Central African Republic   Area 622984.0  Population4844927
+country Republic of the Congo   Area 342000.0  Population3039126
+country Switzerland   Area 41290.0  Population7581000
+country Ivory Coast   Area 322460.0  Population21058798
+country Cook Islands   Area 240.0  Population21388
+country Chile   Area 756950.0  Population16746491
+country Cameroon   Area 475440.0  Population19294149
+country China   Area 9596960.0  Population1330044000
+country Colombia   Area 1138910.0  Population47790000
+country Costa Rica   Area 51100.0  Population4516220
+country Cuba   Area 110860.0  Population11423000
+country Cape Verde   Area 4033.0  Population508659
+country Curacao   Area 444.0  Population141766
+country Christmas Island   Area 135.0  Population1500
+country Cyprus   Area 9250.0  Population1102677
+country Czech Republic   Area 78866.0  Population10476000
+country Germany   Area 357021.0  Population81802257
+country Djibouti   Area 23000.0  Population740528
+country Denmark   Area 43094.0  Population5484000
+country Dominica   Area 754.0  Population72813
+country Dominican Republic   Area 48730.0  Population9823821
+country Algeria   Area 2381740.0  Population34586184
+country Ecuador   Area 283560.0  Population14790608
+country Estonia   Area 45226.0  Population1291170
+country Egypt   Area 1001450.0  Population80471869
+country Western Sahara   Area 266000.0  Population273008
+country Eritrea   Area 121320.0  Population5792984
+country Spain   Area 504782.0  Population46505963
+country Ethiopia   Area 1127127.0  Population88013491
+country Finland   Area 337030.0  Population5244000
+country Fiji   Area 18270.0  Population875983
+country Falkland Islands   Area 12173.0  Population2638
+country Micronesia   Area 702.0  Population107708
+country Faroe Islands   Area 1399.0  Population48228
+country France   Area 547030.0  Population64768389
+country Gabon   Area 267667.0  Population1545255
+country United Kingdom   Area 244820.0  Population62348447
+country Grenada   Area 344.0  Population107818
+country Georgia   Area 69700.0  Population4630000
+country French Guiana   Area 91000.0  Population195506
+country Guernsey   Area 78.0  Population65228
+country Ghana   Area 239460.0  Population24339838
+country Gibraltar   Area 6.5  Population27884
+country Greenland   Area 2166086.0  Population56375
+country Gambia   Area 11300.0  Population1593256
+country Guinea   Area 245857.0  Population10324025
+country Guadeloupe   Area 1780.0  Population443000
+country Equatorial Guinea   Area 28051.0  Population1014999
+country Greece   Area 131940.0  Population11000000
+country South Georgia and the South Sandwich Islands   Area 3903.0  Population30
+country Guatemala   Area 108890.0  Population13550440
+country Guam   Area 549.0  Population159358
+country Guinea-Bissau   Area 36120.0  Population1565126
+country Guyana   Area 214970.0  Population748486
+country Hong Kong   Area 1092.0  Population6898686
+country Heard Island and McDonald Islands   Area 412.0  Population0
+country Honduras   Area 112090.0  Population7989415
+country Croatia   Area 56542.0  Population4491000
+country Haiti   Area 27750.0  Population9648924
+country Hungary   Area 93030.0  Population9982000
+country Indonesia   Area 1919440.0  Population242968342
+country Ireland   Area 70280.0  Population4622917
+country Israel   Area 20770.0  Population7353985
+country Isle of Man   Area 572.0  Population75049
+country India   Area 3287590.0  Population1173108018
+country British Indian Ocean Territory   Area 60.0  Population4000
+country Iraq   Area 437072.0  Population29671605
+country Iran   Area 1648000.0  Population76923300
+country Iceland   Area 103000.0  Population308910
+country Italy   Area 301230.0  Population60340328
+country Jersey   Area 116.0  Population90812
+country Jamaica   Area 10991.0  Population2847232
+country Jordan   Area 92300.0  Population6407085
+country Japan   Area 377835.0  Population127288000
+country Kenya   Area 582650.0  Population40046566
+country Kyrgyzstan   Area 198500.0  Population5776500
+country Cambodia   Area 181040.0  Population14453680
+country Kiribati   Area 811.0  Population92533
+country Comoros   Area 2170.0  Population773407
+country Saint Kitts and Nevis   Area 261.0  Population51134
+country North Korea   Area 120540.0  Population22912177
+country South Korea   Area 98480.0  Population48422644
+country Kuwait   Area 17820.0  Population2789132
+country Cayman Islands   Area 262.0  Population44270
+country Kazakhstan   Area 2717300.0  Population15340000
+country Laos   Area 236800.0  Population6368162
+country Lebanon   Area 10400.0  Population4125247
+country Saint Lucia   Area 616.0  Population160922
+country Liechtenstein   Area 160.0  Population35000
+country Sri Lanka   Area 65610.0  Population21513990
+country Liberia   Area 111370.0  Population3685076
+country Lesotho   Area 30355.0  Population1919552
+country Lithuania   Area 65200.0  Population2944459
+country Luxembourg   Area 2586.0  Population497538
+country Latvia   Area 64589.0  Population2217969
+country Libya   Area 1759540.0  Population6461454
+country Morocco   Area 446550.0  Population31627428
+country Monaco   Area 1.95  Population32965
+country Moldova   Area 33843.0  Population4324000
+country Montenegro   Area 14026.0  Population666730
+country Saint Martin   Area 53.0  Population35925
+country Madagascar   Area 587040.0  Population21281844
+country Marshall Islands   Area 181.3  Population65859
+country Macedonia   Area 25333.0  Population2062294
+country Mali   Area 1240000.0  Population13796354
+country Myanmar [Burma]   Area 678500.0  Population53414374
+country Mongolia   Area 1565000.0  Population3086918
+country Macao   Area 254.0  Population449198
+country Northern Mariana Islands   Area 477.0  Population53883
+country Martinique   Area 1100.0  Population432900
+country Mauritania   Area 1030700.0  Population3205060
+country Montserrat   Area 102.0  Population9341
+country Malta   Area 316.0  Population403000
+country Mauritius   Area 2040.0  Population1294104
+country Maldives   Area 300.0  Population395650
+country Malawi   Area 118480.0  Population15447500
+country Mexico   Area 1972550.0  Population112468855
+country Malaysia   Area 329750.0  Population28274729
+country Mozambique   Area 801590.0  Population22061451
+country Namibia   Area 825418.0  Population2128471
+country New Caledonia   Area 19060.0  Population216494
+country Niger   Area 1267000.0  Population15878271
+country Norfolk Island   Area 34.6  Population1828
+country Nigeria   Area 923768.0  Population154000000
+country Nicaragua   Area 129494.0  Population5995928
+country Netherlands   Area 41526.0  Population16645000
+country Norway   Area 324220.0  Population5009150
+country Nepal   Area 140800.0  Population28951852
+country Nauru   Area 21.0  Population10065
+country Niue   Area 260.0  Population2166
+country New Zealand   Area 268680.0  Population4252277
+country Oman   Area 212460.0  Population2967717
+country Panama   Area 78200.0  Population3410676
+country Peru   Area 1285220.0  Population29907003
+country French Polynesia   Area 4167.0  Population270485
+country Papua New Guinea   Area 462840.0  Population6064515
+country Philippines   Area 300000.0  Population99900177
+country Pakistan   Area 803940.0  Population184404791
+country Poland   Area 312685.0  Population38500000
+country Saint Pierre and Miquelon   Area 242.0  Population7012
+country Pitcairn Islands   Area 47.0  Population46
+country Puerto Rico   Area 9104.0  Population3916632
+country Palestine   Area 5970.0  Population3800000
+country Portugal   Area 92391.0  Population10676000
+country Palau   Area 458.0  Population19907
+country Paraguay   Area 406750.0  Population6375830
+country Qatar   Area 11437.0  Population840926
+country RÃ©union   Area 2517.0  Population776948
+country Romania   Area 237500.0  Population21959278
+country Serbia   Area 88361.0  Population7344847
+country Russia   Area 1.71E7  Population140702000
+country Rwanda   Area 26338.0  Population11055976
+country Saudi Arabia   Area 1960582.0  Population25731776
+country Solomon Islands   Area 28450.0  Population559198
+country Seychelles   Area 455.0  Population88340
+country Sudan   Area 1861484.0  Population35000000
+country Sweden   Area 449964.0  Population9828655
+country Singapore   Area 692.7  Population4701069
+country Saint Helena   Area 410.0  Population7460
+country Slovenia   Area 20273.0  Population2007000
+country Svalbard and Jan Mayen   Area 62049.0  Population2550
+country Slovakia   Area 48845.0  Population5455000
+country Sierra Leone   Area 71740.0  Population5245695
+country San Marino   Area 61.2  Population31477
+country Senegal   Area 196190.0  Population12323252
+country Somalia   Area 637657.0  Population10112453
+country Suriname   Area 163270.0  Population492829
+country South Sudan   Area 644329.0  Population8260490
+country SÃ£o TomÃ© and PrÃ­ncipe   Area 1001.0  Population175808
+country El Salvador   Area 21040.0  Population6052064
+country Sint Maarten   Area 21.0  Population37429
+country Syria   Area 185180.0  Population22198110
+country Swaziland   Area 17363.0  Population1354051
+country Turks and Caicos Islands   Area 430.0  Population20556
+country Chad   Area 1284000.0  Population10543464
+country French Southern Territories   Area 7829.0  Population140
+country Togo   Area 56785.0  Population6587239
+country Thailand   Area 514000.0  Population67089500
+country Tajikistan   Area 143100.0  Population7487489
+country Tokelau   Area 10.0  Population1466
+country East Timor   Area 15007.0  Population1154625
+country Turkmenistan   Area 488100.0  Population4940916
+country Tunisia   Area 163610.0  Population10589025
+country Tonga   Area 748.0  Population122580
+country Turkey   Area 780580.0  Population77804122
+country Trinidad and Tobago   Area 5128.0  Population1228691
+country Tuvalu   Area 26.0  Population10472
+country Taiwan   Area 35980.0  Population22894384
+country Tanzania   Area 945087.0  Population41892895
+country Ukraine   Area 603700.0  Population45415596
+country Uganda   Area 236040.0  Population33398682
+country U.S. Minor Outlying Islands   Area 0.0  Population0
+country United States   Area 9629091.0  Population310232863
+country Uruguay   Area 176220.0  Population3477000
+country Uzbekistan   Area 447400.0  Population27865738
+country Vatican City   Area 0.44  Population921
+country Saint Vincent and the Grenadines   Area 389.0  Population104217
+country Venezuela   Area 912050.0  Population27223228
+country British Virgin Islands   Area 153.0  Population21730
+country U.S. Virgin Islands   Area 352.0  Population108708
+country Vietnam   Area 329560.0  Population89571130
+country Vanuatu   Area 12200.0  Population221552
+country Wallis and Futuna   Area 274.0  Population16025
+country Samoa   Area 2944.0  Population192001
+country Kosovo   Area 10908.0  Population1800000
+country Yemen   Area 527970.0  Population23495361
+country Mayotte   Area 374.0  Population159042
+country South Africa   Area 1219912.0  Population49000000
+country Zambia   Area 752614.0  Population13460305
+country Zimbabwe   Area 390580.0  Population11651858

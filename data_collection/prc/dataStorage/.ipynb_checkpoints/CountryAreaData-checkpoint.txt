@@ -1,0 +1,250 @@
+country AndorraArea 468.0
+country United Arab EmiratesArea 82880.0
+country AfghanistanArea 647500.0
+country Antigua and BarbudaArea 443.0
+country AnguillaArea 102.0
+country AlbaniaArea 28748.0
+country ArmeniaArea 29800.0
+country AngolaArea 1246700.0
+country AntarcticaArea 1.4E7
+country ArgentinaArea 2766890.0
+country American SamoaArea 199.0
+country AustriaArea 83858.0
+country AustraliaArea 7686850.0
+country ArubaArea 193.0
+country Ã…landArea 1580.0
+country AzerbaijanArea 86600.0
+country Bosnia and HerzegovinaArea 51129.0
+country BarbadosArea 431.0
+country BangladeshArea 144000.0
+country BelgiumArea 30510.0
+country Burkina FasoArea 274200.0
+country BulgariaArea 110910.0
+country BahrainArea 665.0
+country BurundiArea 27830.0
+country BeninArea 112620.0
+country Saint BarthÃ©lemyArea 21.0
+country BermudaArea 53.0
+country BruneiArea 5770.0
+country BoliviaArea 1098580.0
+country BonaireArea 328.0
+country BrazilArea 8511965.0
+country BahamasArea 13940.0
+country BhutanArea 47000.0
+country Bouvet IslandArea 49.0
+country BotswanaArea 600370.0
+country BelarusArea 207600.0
+country BelizeArea 22966.0
+country CanadaArea 9984670.0
+country Cocos [Keeling] IslandsArea 14.0
+country Democratic Republic of the CongoArea 2345410.0
+country Central African RepublicArea 622984.0
+country Republic of the CongoArea 342000.0
+country SwitzerlandArea 41290.0
+country Ivory CoastArea 322460.0
+country Cook IslandsArea 240.0
+country ChileArea 756950.0
+country CameroonArea 475440.0
+country ChinaArea 9596960.0
+country ColombiaArea 1138910.0
+country Costa RicaArea 51100.0
+country CubaArea 110860.0
+country Cape VerdeArea 4033.0
+country CuracaoArea 444.0
+country Christmas IslandArea 135.0
+country CyprusArea 9250.0
+country Czech RepublicArea 78866.0
+country GermanyArea 357021.0
+country DjiboutiArea 23000.0
+country DenmarkArea 43094.0
+country DominicaArea 754.0
+country Dominican RepublicArea 48730.0
+country AlgeriaArea 2381740.0
+country EcuadorArea 283560.0
+country EstoniaArea 45226.0
+country EgyptArea 1001450.0
+country Western SaharaArea 266000.0
+country EritreaArea 121320.0
+country SpainArea 504782.0
+country EthiopiaArea 1127127.0
+country FinlandArea 337030.0
+country FijiArea 18270.0
+country Falkland IslandsArea 12173.0
+country MicronesiaArea 702.0
+country Faroe IslandsArea 1399.0
+country FranceArea 547030.0
+country GabonArea 267667.0
+country United KingdomArea 244820.0
+country GrenadaArea 344.0
+country GeorgiaArea 69700.0
+country French GuianaArea 91000.0
+country GuernseyArea 78.0
+country GhanaArea 239460.0
+country GibraltarArea 6.5
+country GreenlandArea 2166086.0
+country GambiaArea 11300.0
+country GuineaArea 245857.0
+country GuadeloupeArea 1780.0
+country Equatorial GuineaArea 28051.0
+country GreeceArea 131940.0
+country South Georgia and the South Sandwich IslandsArea 3903.0
+country GuatemalaArea 108890.0
+country GuamArea 549.0
+country Guinea-BissauArea 36120.0
+country GuyanaArea 214970.0
+country Hong KongArea 1092.0
+country Heard Island and McDonald IslandsArea 412.0
+country HondurasArea 112090.0
+country CroatiaArea 56542.0
+country HaitiArea 27750.0
+country HungaryArea 93030.0
+country IndonesiaArea 1919440.0
+country IrelandArea 70280.0
+country IsraelArea 20770.0
+country Isle of ManArea 572.0
+country IndiaArea 3287590.0
+country British Indian Ocean TerritoryArea 60.0
+country IraqArea 437072.0
+country IranArea 1648000.0
+country IcelandArea 103000.0
+country ItalyArea 301230.0
+country JerseyArea 116.0
+country JamaicaArea 10991.0
+country JordanArea 92300.0
+country JapanArea 377835.0
+country KenyaArea 582650.0
+country KyrgyzstanArea 198500.0
+country CambodiaArea 181040.0
+country KiribatiArea 811.0
+country ComorosArea 2170.0
+country Saint Kitts and NevisArea 261.0
+country North KoreaArea 120540.0
+country South KoreaArea 98480.0
+country KuwaitArea 17820.0
+country Cayman IslandsArea 262.0
+country KazakhstanArea 2717300.0
+country LaosArea 236800.0
+country LebanonArea 10400.0
+country Saint LuciaArea 616.0
+country LiechtensteinArea 160.0
+country Sri LankaArea 65610.0
+country LiberiaArea 111370.0
+country LesothoArea 30355.0
+country LithuaniaArea 65200.0
+country LuxembourgArea 2586.0
+country LatviaArea 64589.0
+country LibyaArea 1759540.0
+country MoroccoArea 446550.0
+country MonacoArea 1.95
+country MoldovaArea 33843.0
+country MontenegroArea 14026.0
+country Saint MartinArea 53.0
+country MadagascarArea 587040.0
+country Marshall IslandsArea 181.3
+country MacedoniaArea 25333.0
+country MaliArea 1240000.0
+country Myanmar [Burma]Area 678500.0
+country MongoliaArea 1565000.0
+country MacaoArea 254.0
+country Northern Mariana IslandsArea 477.0
+country MartiniqueArea 1100.0
+country MauritaniaArea 1030700.0
+country MontserratArea 102.0
+country MaltaArea 316.0
+country MauritiusArea 2040.0
+country MaldivesArea 300.0
+country MalawiArea 118480.0
+country MexicoArea 1972550.0
+country MalaysiaArea 329750.0
+country MozambiqueArea 801590.0
+country NamibiaArea 825418.0
+country New CaledoniaArea 19060.0
+country NigerArea 1267000.0
+country Norfolk IslandArea 34.6
+country NigeriaArea 923768.0
+country NicaraguaArea 129494.0
+country NetherlandsArea 41526.0
+country NorwayArea 324220.0
+country NepalArea 140800.0
+country NauruArea 21.0
+country NiueArea 260.0
+country New ZealandArea 268680.0
+country OmanArea 212460.0
+country PanamaArea 78200.0
+country PeruArea 1285220.0
+country French PolynesiaArea 4167.0
+country Papua New GuineaArea 462840.0
+country PhilippinesArea 300000.0
+country PakistanArea 803940.0
+country PolandArea 312685.0
+country Saint Pierre and MiquelonArea 242.0
+country Pitcairn IslandsArea 47.0
+country Puerto RicoArea 9104.0
+country PalestineArea 5970.0
+country PortugalArea 92391.0
+country PalauArea 458.0
+country ParaguayArea 406750.0
+country QatarArea 11437.0
+country RÃ©unionArea 2517.0
+country RomaniaArea 237500.0
+country SerbiaArea 88361.0
+country RussiaArea 1.71E7
+country RwandaArea 26338.0
+country Saudi ArabiaArea 1960582.0
+country Solomon IslandsArea 28450.0
+country SeychellesArea 455.0
+country SudanArea 1861484.0
+country SwedenArea 449964.0
+country SingaporeArea 692.7
+country Saint HelenaArea 410.0
+country SloveniaArea 20273.0
+country Svalbard and Jan MayenArea 62049.0
+country SlovakiaArea 48845.0
+country Sierra LeoneArea 71740.0
+country San MarinoArea 61.2
+country SenegalArea 196190.0
+country SomaliaArea 637657.0
+country SurinameArea 163270.0
+country South SudanArea 644329.0
+country SÃ£o TomÃ© and PrÃ­ncipeArea 1001.0
+country El SalvadorArea 21040.0
+country Sint MaartenArea 21.0
+country SyriaArea 185180.0
+country SwazilandArea 17363.0
+country Turks and Caicos IslandsArea 430.0
+country ChadArea 1284000.0
+country French Southern TerritoriesArea 7829.0
+country TogoArea 56785.0
+country ThailandArea 514000.0
+country TajikistanArea 143100.0
+country TokelauArea 10.0
+country East TimorArea 15007.0
+country TurkmenistanArea 488100.0
+country TunisiaArea 163610.0
+country TongaArea 748.0
+country TurkeyArea 780580.0
+country Trinidad and TobagoArea 5128.0
+country TuvaluArea 26.0
+country TaiwanArea 35980.0
+country TanzaniaArea 945087.0
+country UkraineArea 603700.0
+country UgandaArea 236040.0
+country U.S. Minor Outlying IslandsArea 0.0
+country United StatesArea 9629091.0
+country UruguayArea 176220.0
+country UzbekistanArea 447400.0
+country Vatican CityArea 0.44
+country Saint Vincent and the GrenadinesArea 389.0
+country VenezuelaArea 912050.0
+country British Virgin IslandsArea 153.0
+country U.S. Virgin IslandsArea 352.0
+country VietnamArea 329560.0
+country VanuatuArea 12200.0
+country Wallis and FutunaArea 274.0
+country SamoaArea 2944.0
+country KosovoArea 10908.0
+country YemenArea 527970.0
+country MayotteArea 374.0
+country South AfricaArea 1219912.0
+country ZambiaArea 752614.0
+country ZimbabweArea 390580.0
